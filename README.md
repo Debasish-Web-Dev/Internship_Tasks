@@ -60,3 +60,99 @@ Using **flexbox** and **media queries**, the layout adapts to different devices 
 
 ---
 
+
+
+
+
+
+# Portfolio Website
+
+## 🌟 Overview
+The **Portfolio Website** is a modern, responsive, and visually appealing platform to showcase personal projects, skills, achievements, and experiences.  
+It serves as a digital resume, helping individuals present themselves professionally to recruiters, clients, and collaborators.
+
+---
+
+## 🎯 Purpose
+The main purpose of this website is to:
+- Highlight **skills** and **projects** in a professional way.
+- Serve as a **central hub** for professional achievements, certificates, and experiences.
+- Provide an **easy contact method** for collaboration or hiring opportunities.
+- Create a **personal brand** and strong online presence.
+
+---
+
+## 🎨 Design & Theme
+- **Theme**: Minimal, elegant, and professional.
+- **Color Palette**: A combination of light/dark tones for readability and aesthetic appeal.
+- **Typography**: Clean and modern fonts for a professional look.
+- **Layout**: Organized sections for **About**, **Skills**, **Projects**, **Achievements**, and **Contact**.
+
+---
+
+## 🛠 Features
+- **Fully Responsive Design** – Works seamlessly on mobile, tablet, and desktop.
+- **Interactive Navigation Menu** – Smooth scrolling to each section.
+- **Skills Showcase** – Display of technical and soft skills with progress indicators.
+- **Projects Gallery** – Cards with images, descriptions, and live/demo links.
+- **Achievements & Certificates** – Highlight accomplishments in a structured format.
+- **Contact Form** – Direct messaging option with validation.
+- **Social Media Links** – Easy access to personal social profiles.
+
+---
+
+## 💻 Technologies Used
+- **HTML5** – Structure and semantic elements.
+- **CSS3** – Styling and layout design.
+- **JavaScript (Optional)** – For interactivity and animations.
+- **Responsive Techniques** – Flexbox, Grid, and media queries.
+
+---
+
+## 📸 Preview
+
+<img width="1862" height="857" alt="Screenshot 2025-08-11 200444" src="https://github.com/user-attachments/assets/706a77af-3ec6-4a33-addc-ede8356a7589" />
+
+
+
+
+
+# 🌡️ Temperature Converter – Convert Between Celsius, Fahrenheit & Kelvin
+
+## 📌 Overview
+The **Temperature Converter** is a simple, responsive web application that allows users to easily convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.  
+It’s a handy tool for students, professionals, and anyone needing quick temperature conversions in a clean and easy-to-use interface.
+
+---
+
+## ✨ Features
+- 🔄 **Convert Between Units** – Celsius ↔ Fahrenheit ↔ Kelvin.
+- 📱 **Responsive Design** – Works smoothly on mobile, tablet, and desktop.
+- ⚡ **Instant Conversion** – Results update instantly as you type.
+- 🎨 **Attractive UI** – Minimal and user-friendly design with clean colors.
+- 🖱️ **Interactive Input Fields** – Enter a value in any unit, and the others update automatically.
+- 🌙 **Optional Dark Mode** *(if implemented)* for a comfortable viewing experience.
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure of the converter.
+- **CSS3** – Styling and responsive layout.
+- **JavaScript (Vanilla)** – Conversion logic and interactivity.
+
+---
+
+## 🚀 How It Works
+1. Enter the temperature in **Celsius**, **Fahrenheit**, or **Kelvin**.
+2. The other two units will update automatically in real-time.
+3. Uses simple mathematical formulas:
+   - °F = (°C × 9/5) + 32  
+   - °C = (°F − 32) × 5/9  
+   - K = °C + 273.15
+
+---
+
+## 📸 Preview
+
+<img width="1862" height="857" alt="Screenshot 2025-08-11 200444" src="https://github.com/user-attachments/assets/706a77af-3ec6-4a33-addc-ede8356a7589" />
+
