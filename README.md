@@ -154,5 +154,6 @@ It’s a handy tool for students, professionals, and anyone needing quick temper
 
 ## 📸 Preview
 
-<img width="1862" height="857" alt="Screenshot 2025-08-11 200444" src="https://github.com/user-attachments/assets/706a77af-3ec6-4a33-addc-ede8356a7589" />
+<img width="1200" height="681" alt="Screenshot 2025-08-11 200920" src="https://github.com/user-attachments/assets/63b8269d-8658-46b3-b8f7-220b00449d4f" />
+
 
